@@ -40,7 +40,7 @@ Docker and Kubernetes auto-discovery need a Docker socket or cluster access, whi
 
 ## Resources
 
-Runs in 0.5 GB RAM (Railway Free and Trial plans). Idle use is around 100–150 MB.
+Runs in 0.5 GB RAM (Railway Free and Trial plans). Measured on Railway with a 0.5 GB / 1 vCPU limit: about 110–170 MB after sign-in and a few page loads.
 
 ## Updates
 
