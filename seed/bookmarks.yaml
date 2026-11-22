@@ -1,0 +1,11 @@
+---
+# Bookmarks. Options: https://gethomepage.dev/configs/bookmarks/
+
+- Developer:
+    - GitHub:
+        - abbr: GH
+          href: https://github.com/
+- Homepage:
+    - Release notes:
+        - abbr: RN
+          href: https://github.com/gethomepage/homepage/releases

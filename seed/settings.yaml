@@ -1,0 +1,7 @@
+---
+# Homepage settings. Edits are picked up within seconds, no restart needed.
+# Options: https://gethomepage.dev/configs/settings/
+title: Homepage
+theme: dark
+color: slate
+headerStyle: boxed

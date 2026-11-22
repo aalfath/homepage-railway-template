@@ -1,0 +1,17 @@
+---
+# Your services. Replace these examples with your own.
+# Options: https://gethomepage.dev/configs/services/
+# Service widgets (Sonarr, Proxmox, Uptime Kuma, ...): https://gethomepage.dev/widgets/
+# Keep API keys out of this file: add a Railway variable such as HOMEPAGE_VAR_SONARR_KEY
+# and write {{HOMEPAGE_VAR_SONARR_KEY}} here.
+
+- Getting started:
+    - Homepage docs:
+        href: https://gethomepage.dev/
+        description: How to configure services, widgets and bookmarks
+        icon: homepage.png
+        siteMonitor: https://gethomepage.dev/
+    - Railway:
+        href: https://railway.com/dashboard
+        description: Your Railway projects
+        icon: si-railway
